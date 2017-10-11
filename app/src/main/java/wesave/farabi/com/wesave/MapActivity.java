@@ -24,7 +24,7 @@ import wesave.farabi.com.wesave.Utility.UtilityLocation;
 public class MapActivity extends AppCompatActivity implements OnMapReadyCallback {
     private GoogleApiClient googleApiClient;
 
-// maps
+// maps jjsjs
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
